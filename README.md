@@ -60,3 +60,42 @@ Nutriscan/
 ├── meal_log.json
 └── README.md
 ```
+# How to Run
+1.	Requirements Python 3.x
+2.	Clone this repository:
+ ``` bash  
+  git clone https://github.com/nerielannegonzales-gif/Nutriscan
+ ``` 
+
+# Navigate to the project folder:
+``` bash
+cd NutriScan
+ ``` 
+
+# Run the Application:
+``` bash
+python main.py
+```
+
+
+# Running Tests
+``` bash
+pytest tests
+```
+
+
+# Author 
+
+
+Developed as a school project by:
+
+•	Neriel Ann Gonzales(GitHub Profile of Gonzales)
+(https://github.com/nerielannegonzales-gif)
+
+•	Cathilyn Escullar (GitHub Profile of Escullar)
+(https://github.com/cathilynescullar-cmyk)
+
+•	Angel G. Listana (GitHub Profile of Listana)
+(https://https://github.com/angellistana617-sudo)
+
+In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 under the Course of Bachelor of Science in Information Technology at Sorsogon State University - Bulan Campus. With the supervision of our Professor John Mark Gabrentina.
